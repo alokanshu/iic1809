@@ -7231,13 +7231,13 @@ textarea {
 }
 
 .titlepage h2 {
-	padding: 0px 0px 6px 0px;
-	font-size: 40px !important;
-	font-weight: bold;
+	padding: 16px 0px 6px 0px;
+	font-size: 50px !important;
+	font-weight: 900 !important;
 	color: #012e5b;
 	line-height: 46px;
 	border-bottom: #fde428 solid 2px;
-	width: 410px;
+	width: 510px;
 	margin: 0 auto;
 	margin-bottom: 0px;
 	margin-bottom: 20px;
@@ -7247,6 +7247,10 @@ textarea {
 	color: #3d3c3c;
 	font-size: 27px;
 	line-height: 30px;
+}
+#content
+{
+  padding-bottom: 20px;
 }
 
  
